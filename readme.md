@@ -1,4 +1,4 @@
-# Un****y Practice Bot
+# Un****y quiz scraping Bot
 
 A high-reliability automation script built with **Playwright** to systematically capture practice questions and solutions from the Un****y platform.
 
